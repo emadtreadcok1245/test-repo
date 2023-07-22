@@ -1,0 +1,15 @@
+E:\WebstormProjects\test-repo\bin\Debug\net7.0\test-repo.exe
+E:\WebstormProjects\test-repo\bin\Debug\net7.0\test-repo.deps.json
+E:\WebstormProjects\test-repo\bin\Debug\net7.0\test-repo.runtimeconfig.json
+E:\WebstormProjects\test-repo\bin\Debug\net7.0\test-repo.dll
+E:\WebstormProjects\test-repo\bin\Debug\net7.0\test-repo.pdb
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\test-repo.csproj.AssemblyReference.cache
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\test-repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\test-repo.AssemblyInfoInputs.cache
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\test-repo.AssemblyInfo.cs
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\test-repo.csproj.CoreCompileInputs.cache
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\test-repo.dll
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\refint\test-repo.dll
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\test-repo.pdb
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\test-repo.genruntimeconfig.cache
+E:\WebstormProjects\test-repo\obj\Debug\net7.0\ref\test-repo.dll
